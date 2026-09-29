@@ -1,2 +1,5 @@
-# floppy-ball
+# minor project
+-> floppy ball
  this project is inspired by Floppy bird game.
+ 
+ 
